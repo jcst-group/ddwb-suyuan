@@ -1,0 +1,18 @@
+
+html {
+	background: #f6f7fb
+}
+.van-step--vertical .van-step__circle{
+	top: .19rem ;
+	left: -0.19rem;
+}
+.van-step--vertical .van-step__line{
+	top: .28rem;
+}
+.van-step__circle{
+	width: 10px;
+	height: 10px;
+}
+.van-step--finish .van-step__circle, .van-step--finish .van-step__line{
+	background: #97c797;
+}
